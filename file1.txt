@@ -5,3 +5,4 @@ file1
 03. Line 5
 02. Line 06. To stash
 03. Line 7
+04. Stash unstaged changes

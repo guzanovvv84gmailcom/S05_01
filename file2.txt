@@ -1,3 +1,5 @@
 file2
 
 02. Creation of file after commit caacf9c
+04. Modification after commit 43e3bfe
+04. Stash staged changes (#04)
