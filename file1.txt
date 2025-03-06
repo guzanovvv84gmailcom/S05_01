@@ -1,7 +1,7 @@
 file1
 
 01. Initial
-03. Line 4
+02. Line 04. To stash
 03. Line 5
-03. Line 6
+02. Line 06. To stash
 03. Line 7
