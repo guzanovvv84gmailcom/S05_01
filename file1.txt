@@ -2,7 +2,7 @@ file1
 
 01. Initial
 02. Line 04. To stash
-03. Line 5
+08. Line 5. Cause conflict
 02. Line 06. To stash
-03. Line 7
+07. Line 07. Not to stash
 04. Stash unstaged changes
